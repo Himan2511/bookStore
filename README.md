@@ -51,9 +51,7 @@ _Crafted with expertise to showcase the perfect blend of cutting-edge web develo
 *   Node.js (v14 or above)
     
 *   npm or yarn
-    
-🛠️ Project Structure
----------------------
+  
 
 ✨ Significance
 --------------
