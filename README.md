@@ -52,31 +52,6 @@ _Crafted with expertise to showcase the perfect blend of cutting-edge web develo
     
 *   npm or yarn
     
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. Clone the repository to your local machine.</p>
-
-
-git clone https://github.com/sandeep-233/book-store
-
-
-<p>2. Navigate to the project directory</p>
-
-
-cd book-store
-
-
-<p>3. Install dependencies</p>
-
-
-npm install
-
-
-<p>4. Start the development server.</p>
-
-
-npm start
-
 🛠️ Project Structure
 ---------------------
 
