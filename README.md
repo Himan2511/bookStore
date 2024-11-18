@@ -14,8 +14,6 @@ _Crafted with expertise to showcase the perfect blend of cutting-edge web develo
     
 *   **Robust Backend**: Node.js and Express for reliable API handling.
     
-*   **RESTful APIs**: Seamless communication between frontend and backend.
-    
 *   **Book Management**: Add, edit, delete, and view books effortlessly.
     
 *   **Responsive Design**: Works flawlessly across all devices.
@@ -54,28 +52,33 @@ _Crafted with expertise to showcase the perfect blend of cutting-edge web develo
     
 *   npm or yarn
     
+<h2>🛠️ Installation Steps:</h2>
 
-### Installation
+<p>1. Clone the repository to your local machine.</p>
 
-1.  bashCopy codegit clone https://github.com/HimanshuMishra/BookStore.gitcd BookStore
-    
-2.  bashCopy codecd clientnpm install
-    
-3.  bashCopy codecd ../servernpm install
-    
-4.  Start the development servers:
-    
-    *   bashCopy codecd clientnpm run dev
-        
-    *   bashCopy codecd ../servernpm start
-        
-5.  Open your browser and navigate to http://localhost:3000 to access the app.
-    
+
+git clone https://github.com/sandeep-233/book-store
+
+
+<p>2. Navigate to the project directory</p>
+
+
+cd book-store
+
+
+<p>3. Install dependencies</p>
+
+
+npm install
+
+
+<p>4. Start the development server.</p>
+
+
+npm start
 
 🛠️ Project Structure
 ---------------------
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   plaintextCopy codeBookStore/  ├── client/       # React (Frontend)  │   ├── src/      # Source files  │   ├── public/   # Static assets  │   └── vite.config.js  ├── server/       # Node.js (Backend)  │   ├── routes/   # API routes  │   ├── models/   # Database models  │   └── app.js    # Express app entry  └── README.md     # Project documentation   `
 
 ✨ Significance
 --------------
